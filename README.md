@@ -1,1 +1,1 @@
-# PythonCourse
+Пройденный курс по Python.
